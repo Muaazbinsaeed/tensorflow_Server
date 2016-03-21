@@ -9,3 +9,5 @@ However the Deep-ALPR model will not be released.!
 
 
 https://tensorflow.github.io/serving/serving_basic
+
+Base url - https://localhost/deepAlpr/api/v1.0
